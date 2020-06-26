@@ -1,4 +1,5 @@
 console.log(123);
 
 var baileyChanges = 1
-console.log(baileyChanges)
+var moreChanges = 2
+console.log(baileyChanges + moreChanges)
