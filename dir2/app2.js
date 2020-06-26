@@ -1,1 +1,2 @@
-console.log(123);
+const VALUE = 123;
+console.log(VALUE);
